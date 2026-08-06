@@ -3,7 +3,7 @@
 # Hey, I'm Neko 🐾
 **Software Developer**
 
-[![My Skills](https://skillicons.dev/icons?i=rust,cpp,java,js,css,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,java,js,nodejs,css&theme=light)](https://skillicons.dev)
 
 ---
 </div>
