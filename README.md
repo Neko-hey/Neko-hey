@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neko-hey&theme=holi&animation=rise&duration=1&name=Neko+%F0%9F%90%BE" alt="Neko's Profile Details" />
+<br />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neko-hey&theme=holi&animation=rise&duration=1" alt="Most Commit Language" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neko-hey&theme=holi&animation=rise&duration=1" alt="Stats" width="48%" />
+
 # Hey, I'm Neko 🐾
 **Software Developer**
 
@@ -12,5 +17,5 @@
 
 ```text
        /\_/\  
-      ( o.o ) < "Meow! Welcome my profile!"
+      ( o.o ) < "Meow! Welcome to my profile!"
        > ^ <
